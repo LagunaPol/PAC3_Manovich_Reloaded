@@ -17,3 +17,15 @@ El invent que més a prop estava d’aquesta aplicació era alguns _Tamagotchi._
 
 
 # Sony Vegas 
+
+El Sony Vegas és el programa més famós per editar vídeos. És molt utilitzat per la part de post producció dels films ja que et dona la possibilitat de millorar la qualitat del clip final. A principi del cinema si es volia retallar alguna escena no es feia servir cap software, simplement es retallava amb tisores i després es pegava amb la següent escena. Amb la evolució de la tecnologia es va anar agilitzant i millorant aquest procés fins el avui que amb Sony Vegas pots editar i fins i tot afegir àudios que no existien abans.
+
+Al principi el Sony Vegas va aparèixer com un editor d’àudio essencialment, però tenint en compte que feia falta una aplicació potent per millorar la qualitat dels metratges, el Sony Vegas va evolucionar.
+
+Perquè tractem al Sony Vegas com a model híbrid? Es senzill. Estem parlant d’un programa on pots modelar el so, la imatge i els fotogrames com vulguis, és a dir, és la combinació de diferents programes. Abans del Sony Vegas, l’àudio s’havia de editar per un costat, vigilant sempre que en la part de producció no es barreges amb soroll ambiental. Aquesta problemàtica es fàcilment de solucionar amb la quantitat d’eines que el programa et proposa, per si vols ser detallista fins un punt obsessiu. L’augment del guany, la supressió del soroll que contamina la pista d’àudio, i milers d’opcions més. A part, pots afegir pistes de so que no estan en la gravació original, tot això en Sony Vegas.
+
+L’altre apartat es vigilar la qualitat de la imatge que es presentaran en el clip final. Existeixen milers de programes per editar les fotografies que es pugen a Instagram o bé a les revistes, etc. Al cap i a la fi, per molta cura que tinguis fent la sessió fotogràfica sempre es necessari un petit retoc. Però, aquestes aplicacions només corregeixen imatges estàtiques. En canvi, el Sony Vegas fa tots els retocs possibles als fotogrames.
+
+Per últim, l’apartat més important, la edició del vídeo. Avui dia, Sony Vegas es considerat un programa d’edició de vídeos, per tant, aquí es on més pots utilitzar la teva imaginació amb la infinitat de recursos que t’ofereix.
+
+Cal dir que a més és un programa bastant intuïtiu pels principiants, però si investigues més a fons et pots convertir en un professional. Probablement et calguin uns quant anys d’aprenentatge i pràctica però tot arriba.
